@@ -324,3 +324,570 @@ sam témpor un flacon con un rosi liquide esset presset in su manu.
 It es necessi, que on scri ne solmen leibil, ma anc per lítteres, queles
 es customal
 al letor.
+
+#### I. Interpunction.
+
+
+
+
+1. Punctu (.) es usat por separar li frases, i.e. expressiones de
+integri e complet pensas absolutmen índependent. Un bon precepte: Ples
+usar mult punctus, i.e. ples far curt frases. In li algebra li punctu
+significa li multiplication sammen quam li signe X. Pro to on ne deve
+usar li punctu por separar li millenes in long númeres, ma on mey usar
+sempre solmen lacunes (spacies), por ex. 2 345 000. On deve ne usar li
+punctu por li decimales (vide li sequent articul).
+
+2. Comma (,) es usat por separar li propositiones queles composi un
+frase.
++
+Pos li relativ pronómines, adjectives e adverbies, on posse imitar li
+francesi aplication del comma, it es
+
+[loweralpha]
+a. usar it ante relatives qualificativ (explicativ),
+b. ne usar it ante relatives determinativ (specificativ).
+
+Exemples: Li phrase Yo ne ama li infantes, queles fa brui posse haver
+du significationes:
+
+[loweralpha]
+a. Yo ne ama li (i.e. omni) infantes, pro que ili fa brui;
+b. Yo ne ama tis del infantes, queles fa brui.
+
+In li unesim casu (a), li relative es qualificativ o explicativ; it
+qualifica in general omni infantes. In li duesim casu (b), it es
+determinativ; it determina li specie de infantes queles yo ne ama. Ante
+li relatives determinativ (casu b) on posse omisser li comma.
+
+Altri exemples:
+
+[loweralpha]
+a. con relatives qualificativ (explicativ):
++
+Ples regardar ti mann, quel lee un jurnal; il audi tamen omnicos, quo
+noi di.
++
+Mi old amic, quel es acustomat dir li veritá, ne ha audaciat dir me it
+in ti casu.
++
+Napoleon, quel videt avansar li ínamicos, directet contra les su Old
+Guardie.
++
+b. con relatives determinativ (specificativ):
++
+Li hom quel lee li jurnales ne deve creder omnicos quo il lee.
++
+Li amic quel ne audacia dir li veritá ne es un ver amic.
++
+Li unesim soldat quel videt li ínamicos hastat advertir li generale.
+
+Ti exemples suggeste un util remarca. In omni vezes quande li
+substantive es determinat, li parol quel es solmen explicativ, ergo it
+postula un comma. Ma to eveni
+
+
+
+[loweralpha]
+a. si li substantive es un nómin propri; evidentmen ne existe pluri
+Napoleons, ergo necos quo vell posser determinar it plu completmen;
+
+b. si li substantiv es acompaniat de un adjective determinativ, sive
+demonstrativ, sive possessiv: «ti hom» es ja suficentmen e completmen
+determinat del demonstrative (o del geste, quel acompania it); «mi old
+amic» es anc determinat per ti ci epitetes.
+
+Comprensibilmen, ti regules es valid anc si quel es precedet de un
+preposition
+
+[loweralpha]
+a. qualificativ:
++
+Mi patre, de quel yo demandat un consilie, aprobat mi maniere de
+pensar.
+
+b. determinativ:
++
+Li amic de quel yo demandat un consilie aprobat mi maniere de pensar.
+
+Li relatives qualificativ on posse supleer per un conjunction (o
+locution conjunctional): Ples regardar ti mann; malgré que il lee un
+jurnale, il audi tamen omnicos, quo noi di, -- malgré que (o: pro que)
+mi old amic es acustomat dir li veritá, il ne ha audaciat... --
+Napoleon directet su Old Guardie contra li ínamicos, quande il videt les
+avansar. -- Quande yo demandat un consilie de mi patre, il aprobat mi
+maniere
+de pensar.
+
+
+
+
+
+In li númeres decimal, li integres es separat del decimales per un comma
+(ne per un punctu, quel have un altri usu; vide supra), p. ex.: 3,141
+59 (compara li anglesi e austrian maniere 3 141.59!). Li unesim
+decimale seque sin interspacie (lacune) al comma; tri e tri decimales
+es separat del sequent gruppe per un lacune. Si ne existe integres, on
+scri un zero ante li comma, p. ex.: 0,89 ples leer: «null comma ott
+nin» o «null integres ottanti-nin centesimes»; do on ne imita li
+maniere de anglesi.
+
+
+
+[start=3]
+. Semicolon o punctu-comma (;) es usat por separar propositiones o
+frases grammaticalmen índependent, ma ligat per li signification.
+
+. Colon (:) es usat por anunciar un explication; it indica que li
+frase sequent explica li precedent. It anuncia anc citates, ma in ti
+casus it es sequet de citat-signes (vide infra).
+
+. Punctus suspensiv (...) indica un interruption del frase, sive de un
+altri parlant sive del parlante self quel pausa por retener o
+changear li expression de su pensa. Li germanes usa in vice de it li
+«Gedankenstrich» (litteralmen: pensa-strec), ma it es un mal usu,
+nam li strec have un altri signification e un altri, índispensabil
+usu (v.  infra). On posse usar li punctus suspensiv anc in vice del
+parol «til»; vide infra sub «strec».
+
+. Parenteses () es usat por includer un frase, proposition o parol,
+quel es apart e deve esser separat del céteri textu. In general it
+es un remarca lateral, quel on inserte, e quel interrupte li rect
+órdine del pensa. De to seque un consilie: ples ne abuser li
+parenteses, pro que on risca per to trublar li comprension.
++
+Pro que li parenteses es essentialmen destinat a includer, on ne deve
+usar les un sin li altri in li textu current qualmen on fa sovente pri
+li númeres. Vice «1)» on deve scrir, o «(1)» o «1-m» (abreviatura de
+unesim). Li usu «1)» have un grav detriment: si on vide un tal
+parentese final, on sercha spontanimen li parentese inicial sin trovar
+it. In plu, it eveni sovente, que ti parentese «vidui» es trovat in o
+apu un altri ver (duplic) parentese, e in ti casu on have sive «1))»,
+sive «)1)» du dispositiones egalmen absurd. Ergo: nequande usar un
+parentese sol.
++
+Li sam regul vale anc por li usu del parenteses con lítteres, do
+«(a)», «(b)», e ne «a)», «b)».
++
+On posse far ci solmen un exception, 1. e. in li commensa de un
+alinea.  Ta li parentese cludent «)» posse esser aplicat sol con
+ciffres o lítteres sin li parentese apertent, pro que ci un
+miscomprense ne posse evenir.
+
+. Crampones [] e imbrassamentes {} es usat, in matematica, quam
+parenteses de duesim o triesim gradu, ex. .
+`{...[...(...)...]...}. In li «prosa», on posse usar li crampones
+in simil casu o quam apart parenteses. On usa li inbrassament (unic)
+por far coresponder un linea (unilateralmen) a pluri lineas
+(altrilateralmen), talmen:
+
+
+
+....
+  {...   ...}
+
+----{... o ...} ....
+
+  {...   ...}
+....
+
+Li punte deve tornar se al unic linea, e li brasses (li concavitá) al
+pluri lineas. Noi consilia usar rarmen li inbrassamentes, pro que ili fa
+complicat e desfacil li composition. Ili es util solmen in tabelles. Ili
+posse esser usat anc horizontalmen p. ex. in genealogic árbores:
+
+
+
+Ludovico
+
+
+
+Petro, Paulo, Ioannes, Maria.
+
+
+
+
+[start=8]
+. Tiré (-) es un ortografical signe e functiona quam ligation. It
+unifica li partes de un parol composit (c . III, B., l). It indica
+anc li separation de un parol de un linea al altri (cp. I, D., 4).
+Ples nequande usar ci un duplic strec, quel es reservat quam signe
+de egalitá, ni iterar li tiré in li comensa del linea sequent. In
+plu ples [ne usar li tiré pos li nómin de un person por indicar su
+cité o land, ma usar in ti casus li parenteses; do: senior Martin
+(Paris) o senior Braun (Germania), e ne Martin-Paris o
+Braun-Germania.
+
+. Strec (—) es plu long quam li tiré e functiona quam separation. It
+indica sive un changeament del interlocutor (i.e. it separa li
+dictiones, responses de divers interlocutores), sive un changeament
+del tema. It separa do plu mult quam li punctu. Ma in li duesim casu
+on mey preferer li usation del alinea, quel indica plu clarmen li
+separation; it have li avantage inserter in li textu «blancages»,
+vacuages, queles reposa li ocul e furni a it un stoppa-punctu. Li
+strec servi anc, precipue in lexicos, por suppleer paroles o
+parol-partes, queles on ne vole repetir.
++
+Pro que li strec significa li subtraction in li matematica, i. e.
+inter ciffres, on ne mey usar it inter ciffres in un altri
+signification, p.  ex. «til» on scri do: de 2 til 3 cloccas (e ne: de
+2 -- 3 cloccas); si li preposition _de_ ne precede e precipue in
+abreviationes on posse usar anc li du punctus, do 2 til 3 cloccas
+= 2 ... 3 cloccas.
+
+. Signes de citation (« »). Ili indica e include li paroles e frases
+queles on cita. Ili deve tornar lor concavitá a intern, i.e. al
+textu includet. On posse anc usar duplic commas quam signes de
+citation, i.e.  ,,...,, secun li maniere german o «...» secun li
+maniere anglesi; ma li signes francesi, i.e. «...», es preferibil,
+pro que ili es plu distinctibil. Li unesim signe es nominat apertent
+o apertori, li duesim cludent o clusori.
+
+. Referenties a ped-notes. Por indicar li ped-notes, nequel medie es
+tam simplic e commod quam li números; nam ili es li max bon e clar
+signes, e ili es disponibil in un ínlimitat quantité. Si on usa
+asteriscos (*) o crucettes (†), quam in quelc printerías, e si on
+have mult notes sur li sam págin, on neplu save, qualmen arangear
+it.
+
+. Signe de exclamation (!) es usat pos un exclamation o pos un frase
+exclamatori. Quelc popules usa it pos omni vocation o
+interpellation, mem pos Senior in li comensa de epistules, i.e. pos
+omni vocatives, ma to ne es necessi.
+
+. Signe interrogativ (?) es usat solmen pos direct frases
+interrogativ.
+
+. Apostrof ('). -- It es usat por indicar un elision; in ultra it
+forma un parte del lítteres del mollat sones l' e n'; ples vider I,
+B., 2 e V, A.
+
+. General remarca. -- On ne deve misevaluar li importantie del
+interpunction e depreciar li concernent regules quam ínnecessi e
+minuciosi. Li interpunction es necessi por li claritá, do por li
+perfect e secur intercomprension; it have importantie por li
+pronunciation. Li punctu representa un stoppa passabilmen grand; li
+colon e li punctu-comma un stoppa minu grand; li comma un stoppa mem
+minu grand, ma sensibil. Egardar ti signes e far li corespondent
+pausas, es li unesim regul del diction, e li max important. Pro to
+ja li Ido-Academie ha tractat li interpunction tre detalliatmen, e
+noi secue ci su exemple, sovente con li sam paroles e specimenes.
+
+#### J. Abreviationes.
+
+
+
+##### 1. General Abrevationes.
+
+a.C. = ante Christo
+
+a.c. = (del) annu current
+
+am. = antemidí (= premidí)
+
+c. = (del mensu) current
+
+cp. = (ples) compara(r)
+
+Dr., dr. = doctor
+
+etc = etcetera (e céteri)
+
+EV = (del) era vulgari (= cristian era)
+
+i.e. = it es
+
+md. = midí
+
+mn. = minocte
+
+ms. = manuscrit
+
+nr = numeró
+
+nrs = numerós
+
+p.ex. = por exemple
+
+p. C. = pos Cristo
+
+pg. = págin
+
+PS. = pos-scrite
+
+sr., Sr. = senior
+
+sra., Sra. = seniora
+
+v. = (ples) vide(r)
+
+##### 2. Abreviationes linguistic.
+
+(a) Natural lingues
+
+A = anglesi
+
+Ab = arabic
+
+Al = albanesi
+
+Am = american (anglesi)
+
+An = armenian
+
+Cl = celtic
+
+Ct = catalan
+
+D = german (= deutsch{
+
+Dn = danesi
+
+Es = estonian
+
+F = francesi
+
+
+
+Fn = finnic
+
+G = (ancian) grec
+
+Gt = gotic
+
+Hb = hebreic
+
+Hl = hollandesi
+
+I = italian
+
+In = indic
+
+Is = islandesi
+
+L = latin
+
+Let = letton
+
+Lit = lituan
+
+N = nordic
+
+Nv = norveg
+
+P = portugalesi
+
+Pl = polonesi
+
+Pr = provenzal
+
+R = russ
+
+Rh = retoroman(ic)
+
+Rm = rumanian
+
+S = hispan
+
+Sc = sanscrit
+
+Sl = slavic
+
+Sv = svedic
+
+T = turk
+
+Tch = tchec
+
+U = (h)ungarian
+
+Y = yugoslav (= serbo-croatic)
+
+m = medí, p. ex.:
+
+mhd = medíaltgerman
+
+mL = medílatin.
+
+Subclassificationes:
+
+a = ancian, p.ex.:
+
+aA = ancian-anglesi = anglosaxonic,
+
+aD = ancian-german,
+
+aIn = ancian-indic.
+
+b = bass (A low, D nieder, F bas), p.ex.:
+
+bD = bass-german.
+
+h = alt (A high, D hoch, F haut), p. ex.:
+
+hD = altgerman,
+
+ahD = ancian-altgerman.
+
+n = nov, p. ex.:
+
+nhD = nov-altgerman.
+
+(b) Artificial lingues:
+
+Esp = Esperanto
+
+Ido = Ido
+
+Il = Interlingua
+
+IN = Idiom Neutral
+
+L.I. = lingue international
+
+LsF = Latino sine Flexione
+
+Nl = Novial
+
+Occ = Occidental
+
+RN = Reformneutral
+
+Vp = Volapük.
+
+##### 3. Signes por li chimic elementes.
+
+|===
+| actinium                      | Ac
+| aluminie                      | Al
+| antimon (L stibium)           | Sb
+| argente                       | Ag
+| argon                         | Ar
+| arsen                         | As
+| aure                          | Au
+| azote = nitrogenie     | (v. ti)
+| barium                        | Ba
+| beryllium                     | Be
+| bismut                        | Bi
+| bor                           | B
+| brom                          | Br
+| cadmium                       | Cd
+| calcium                       | Ca
+| carbon (eum)                  | C
+| cassipopeium                  | Cp
+| cer(ium)                      | Ce
+| cesium                        | Cs
+| c(h)lor                       | Cl
+| c(h)rom                       | Co
+| columbium = niobium    | (v. ti)
+| cupre                         | Cu
+| dysprosium                    | Dy
+| emanation                     | Em
+| erbium                        | Er
+| europium                      | Eu
+| ferre                         | Fe
+| fluor                         | F
+| fosfor = phosphor      | (v. ti)
+| gadolinium                    | Gd
+| gallium                       | Ga
+| germanium                     | Ge
+| hafnium                       | Hf
+| helium                        | He
+| holmium                       | Ho
+| hydrarg(yre)                  | Hg
+| hydrogen(ie)                  | H
+| illinium                      | Il
+| indium                        | In
+| iod                           | J
+| iridium                       | Ir
+| kalium                        | K
+| krypton                       | Kr
+| lanthan                       | La
+| lithium                       | Li
+| lutetium = cassiopeium | (v. ti)
+| magnesium                     | Mg
+| mangan                        | Mn
+| masurium                      | Ma
+| mercurie = hydrarg     | (v. ti)
+| molybden                      | Mo
+| natrium                       | Na
+| neodynium                     | Nd
+| neon                          | Ne
+| nickel                        | Ni
+| niobium                       | Nb
+| niton = ematation      | (v. ti)
+| nitrogen(ie)                  | N
+| osmium                        | Os
+| oxigen(ie)                    | O
+| palladium                     | Pd
+| phosphor                      | P
+| thorium                       | Th
+| thulium                       | Tu
+| titan                         | Ti
+| uran                          | U
+| vanadium                      | V
+| wolfram                       | W
+| xenon                         | Xe
+| ytterbium                     | Yb
+| yttrium                       | Y
+| zinc                          | Zn
+| zirconium                     | Zr
+| platin                        | Pt
+| plumbe                        | Pb
+| polonium                      | Po
+| praseudymium                  | Pr
+| protactinium                  | Pa
+| radium                        | Ra
+| rhenium                       | Re
+| rhodium                       | Rh
+| rubidium                      | Rb
+| ruthenium                     | Ru
+| samarium                      | Sm
+| scandium                      | Sc
+| selen                         | Se
+| silicium                      | Si
+| stanno                        | Sn
+| strontium                     | Si
+| sulfur (sulphur)              | S
+| tantal                        | Ta
+| tellur                        | Te
+| terbium                       | Tb
+| thallium                      | T
+|===
+
+
+
+In ti liste li abreviationes es trovabil presc in li just órdin
+alfabetic; solmen Sb es tre lontan del alfabetic plazza; vide it che
+«antimon».
+
+Ne recomandabil es li sequent signes national (grass print indica li
+just signe): A (= *Ar*, argon), Az (azote = *N*, nitrogen), Cb (columbium =
+*Nb*, niobium), Gl (glacinium = *Be*, beryllium), Lu (lutetium = *Cp*,
+cassiopeium), Nt (niton = *Em*, emanation). On mey scrir por dysprosium ne
+Ds, ma *Dy*; por samarium ne Sm, ma *Sa* por thulium ne Tm, ma *Tu*.
+
+##### 4. General remarcas al abreviationes.
+
+On ne mey abuser li abreviationes. Lor mission es in general esser usat
+in sinopticas, tabelles, listes, formules etc e precipue in special
+ovres con exception del general abreviationes indicat supra in articul
+l. It es plu comod por li letor, trovar in li current textus tam poc
+abreviationes quam possibil.
+
+Talmen on mey usar p. ex. li abbreviationes Dr., Sr., Sra. (articul 1)
+solmen con un sequent nómin, ma ne stant sol; li abbreviationes a.c.,
+EV., p.C. (articul 1) solmen pos numerós de annus; li abreviationes
+dC, dM, nr, nrs, pg (articul 1) solmen in combination con ciffres; li
+linguistic abreviationes (articul 2) solmen ante lingual exemples; li
+signes de chimic elementes (articul 3) solmen in formules etc.
+
+#### K. Signes non alfabetic.
+
+* (asterisc) = (in general:) hant nascet in...; (in lingues mort:)
+ínatestat, ma conjectet; (in lingues modern:) neologisme.
+
+† (crucette) = (in general:) mort in...; (in lingues:) arcaic,
+obsolet.
+
+On mey ne usar ti du signes por ped-notes.
