@@ -1,6 +1,6 @@
 ## <a name="complet">COMPLET GRAMMATICA DE OCCIDENTAL</a>
 
-In li presant caderne noi comensa publicar un complet grammatica del lingue Occidental, demandat ja de omni láteres. Pro que noi ne posse editer ti ovre quam brochura separat pro li grand custas de un tal printage, noi inserte it in nor revúe in pluri continuationes. Senior K. Janotta ha prendet sur se li pena composir ti ovre.
+In li present caderne noi comensa publicar un complet grammatica del lingue Occidental, demandat ja de omni láteres. Pro que noi ne posse editer ti ovre quam brochura separat pro li grand custas de un tal printage, noi inserte it in nor revúe in pluri continuationes. Senior K. Janotta ha prendet sur se li pena composir ti ovre.
 
 Red.
 
@@ -28,11 +28,11 @@ K. Janotta.
 
 ### <a name="index">INDEX</a>
 
-1.  Phonologie
-    1.  Alphabet
+1.  Fonologie
+    1.  Alfabet
     2.  Pronunciation
     3.  Accentuation
-    4.  Separation syllabic
+    4.  Separation sillabic
     5.  Quantitá vocalic
     6.  Textu exercitiv
     7.  Nómines de lítteres
@@ -42,24 +42,24 @@ K. Janotta.
     3.  Desinenties primari
     4.  Desinenties secundari
 3.  Derivation
-    1.  Themas derivatori
-    2.  Suffixes [151]
+    1.  Temas derivatori
+    2.  Sufixes [151]
 4.  Composition
     1.  General remarcas
     2.  Assimilation in li composition
-    3.  Themas ínseparabil
+    3.  Temas ínseparabil
     4.  Prefixes
-    5.  Themas presentic quam determinativ
+    5.  Temas presentic quam determinativ
     6.  Grec prefixes
     7.  Families de paroles
-5.  Orthographie
-    1.  Mollat sones
+5.  Orthografie
+    1.  ~~Mollat sones~~
     2.  Duplic consonantes
     3.  Transcrition del latin paroles
     4.  Transcrition del grec paroles
     5.  Transcrition del non-classic paroles
     6.  Majuscules
-    7.  Abbreviationes
+    7.  Abreviationes
     8.  Signes non-alphabetic
     9.  Interpunction
 6.  Partes del discurs
@@ -73,6 +73,6 @@ K. Janotta.
     8.  Preposition
     9.  Conjunction
     10.  Interjection
-7.  Syntax
+7.  Sintax
 8.  Metrica
-9.  Correspondentie
+9.  Corespondentie
