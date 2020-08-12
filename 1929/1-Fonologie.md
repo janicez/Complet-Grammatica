@@ -1,14 +1,14 @@
-### <a name="I">I-esim Capitul: PHONOLOGIE</a>
+### <a name="I">I-esim Capitul: FONOLOGIE</a>
 
-#### <a name="I_A">A. Alphabet</a>
+#### <a name="I_A">A. Alfabet</a>
 
-Li alphabet de Occidental consiste ex 26 simplic lítteres, ad plu ex 2 lítteres apostrophat e ex 8 bilítteres (digrammas):
+Li alfabet de Occidental consiste ex 26 simplic lítteres, ad plu ex 2 lítteres apostrofat e ex 8 bilítteres (digrammas):
 
 **a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, r, s, t, u, v, w, x, y, z; l’, n’; ch, eu, gh, ph, rh, sh, th, zz.**
 
 Li nómines del lítteres trova se in li parte G del present capitul.
 
-Li alphabet del 26 simplic lítteres corresponde con li alphabetes angles e german. Quam medie de enumeration in libres etc on usa solmen ti 26 simplic lítteres.
+Li alfabet del 26 simplic lítteres coresponde con li alfabetes angles e german. Quam medie de enumeration in libres etc on usa solmen ti 26 simplic lítteres.
 
 #### <a name="I_B">B. Pronunciation</a>
 
@@ -22,21 +22,19 @@ Angleses mey attenter li pronunciation continental del vocales, it es: **a** qua
 
 Germanes mey attenter que du vocales intersecuent in general es pronunciat separat: aer = D a-ehr [aér], país = D pa-ihs [país], leer = le-ehr [le-ér], leibil = D le-ih-bil [leíbil], ciel = D zi-ehl [tsyél].
 
-**y** vocalic es pronunciat quam german ü o frances u; transcrition [ü], por exemple: cylindre [tsülíndre], hymne [hü’mne], styr [stür], physica [fü’sika], analyse [analü’se], cyan [tsüán], yttrium [ü’ttryum]. Pos un vocal e in comensa de un parol anc ante un vocal, y es consonant; su pronunciation es explicat in li secuent articul.
-
-**eu** es egal al frances eu e al german ö; transcrition [ö], por exemple: Europa [örópa], meuble [mö’ble], neutral [nötrál].
+**y** vocalic, quelcvez videt quande li scritor vole usar un ortografie plu latinesc o arcaic, es pronunciat quam **i**, por exemple: cylindre [tsilíndre], hymne [hi’mne], styr [stir], physica [fi’sika], analyse [anali’se], cyan [tsián], yttrium [i’ttryum]. Pos un vocal e in comensa de un parol anc ante un vocal, y es consonant; su pronunciation es explicat in li sequent articul.
 
 **i** e **u** ante vocales in plursyllabic paroles, u pos q anc in monosyllabic paroles es pronunciat tre curt, presc consonantic e ne posse formar propri syllabes; transcrition [y] e [w], p. ex.: ciel [tsyél], lingue [língwe], aqua [ákwa], piano [pyáno]; quam [kwam], que [kwe], quel [kwel], qui [kwi].
 
-**ai** e **au** es diphtongs e es pronunciat [ay], respectivmen [aw]: email [emáyl], rauc [rawk], applause [appláwse]; caul [kawl].
+**ai**, **au**, e **eu** es diphtongs e es pronunciat [ay], respectivmen [aw] e [euw]: email [emáyl], rauc [rawk], applause [appláwse]; caul [kawl]; Europa [európa], neutral [neutrál].
 
 ##### <a name="I_B_2">2\. Consonantes</a>
 
-Occidental have 20 simplic consonantes (sin y), 2 consonantes mollat (lítteres apostrophat) e 8 consonantes indicat per digrammas.
+Occidental have 20 simplic consonantes (sin y) e 8 consonantes indicat per digrammas.
 
 In general li consonantes es pronunciat quam in italian con cert modificationes.
 
-In lu secuent es indicat ti consonantes, de queles li pronunciation diverge del italian o have desfacilitás por angleses, franceses o germanes.
+In lu sequent es indicat ti consonantes, de queles li pronunciation diverge del italian o have desfacilitás por angleses, franceses o germanes.
 
 **c** e **g** ante e, i, y es pronunciat dental, respectivmen sonor-sibilant, it es c = [ts]; g = g in D Page, Loge, Gelee, j in frances; transcrition [ž]. In omni altri casus c e g es pronunciat guttural; transcrition [k], respectivmen [g]. Con h li lítteres c e g forma li digrammas ch e gh, de queles li pronunciation es indicat in infra.
 
@@ -60,11 +58,7 @@ In lu secuent es indicat ti consonantes, de queles li pronunciation diverge del 
 
 **z** = [ds]: zefir = [dsefír], bazar = [badsár].
 
-**l’** es pronunciat circa quam li in «familie» [famílye], transcrition [ly], p. ex. guil’otine [gwilyotíne], bil’ [bily], bil’et [bilyét], tal’e [tálye], bul’on [bulyón], toal’e [toálye], orel’e [orélye], trel’e [trélye].
-
-**n’** = circa [ny], inter consonantes presc ne audibil; p. ex. distin’er [disstineyér], distin’tion [disstin(y)tsión], champin’on [tchampinyón], attin’er [attinyér], attin’tion [attin(y)tsyón], castan’e [castánye], sparn’ar [ssparnyár], vicun’a [vikúnya].
-
-**ch** quam in angles e hispan, quam tsch in german; transcrition [tsh], p. ex. chambre [tchámbre], chines [tshinés], brochura [brotshúra]; ma anc quam ch in frances e sch in german; transcrition [sh], p. ex. machine [mashíne]. Ante consonantes o juntet con y, o in li syllabe arch e pos s, ch es pronunciat quam ch in D machen o quam j in S Mejico (Mexico); transcrition [kh], p. ex. yacht [yakht], chromometre [khronométre], psycholog [psükhológ], architect [arkhitékt], monarchist [monarkhíst], schisma [skhíssma]. Ti qui ne posse pronunciar [kh], deve usar li pronunciation [k].
+**ch** quam ch in francés e sch in german; transcrition [sh], p. ex. chambre [chámbre], chines [shinés], brochura [broshúra] machine [mashíne]. Ante consonantes o juntet con y, o in li síllabe arch e pos s, ch es pronunciat quam k, p. ex. yacht [yakt], chromometre [kronométre], psicolog [psikológ], architect [arkitékt], monarchist [monarkíst], schisma [skíssma].
 
 **gh** — g guttural, ante e, i, y; p. ex.: ghesha [gésha], ghepard [gepárd], ghetto [gétto], ghibellino [gibelíno].
 
