@@ -1,10 +1,10 @@
-## <a name="complet">COMPLET GRAMMATICA DE OCCIDENTAL</a>
+# <a name="complet">COMPLET GRAMMATICA DE OCCIDENTAL</a>
 
 In li present caderne noi comensa publicar un complet grammatica del lingue Occidental, demandat ja de omni láteres. Pro que noi ne posse editer ti ovre quam brochura separat pro li grand custas de un tal printage, noi inserte it in nor revúe in pluri continuationes. Senior K. Janotta ha prendet sur se li pena composir ti ovre.
 
 Red.
 
-### <a name="preface">Preface.</a>
+## <a name="preface">Preface.</a>
 
 Naturalmen ti unesim elaborate de un «Complet Grammatica» va contener mult lacunes in comparation al desires de multes de nor coidealistes.
 
@@ -26,7 +26,7 @@ Ja nu, quande solmen un micri part del Complet Grammatica es finit, yo posse dir
 
 K. Janotta.
 
-### <a name="index">INDEX</a>
+## <a name="index">INDEX</a>
 
 1.  Fonologie
     1.  Alfabet
