@@ -1,8 +1,8 @@
-### III-esim Capitul: DERIVATION
+## III-esim Capitul: DERIVATION
 
-#### A. Themas derivatori
+### A. Themas derivatori
 
-##### 1\. Thema primitiv
+#### 1\. Thema primitiv
 
 On obtene li thema primitiv de un parol per omission del desinenties; si un parol have nequel desinentie, it self es su thema primitiv con poc exceptiones indicat in plu infra.
 
@@ -22,7 +22,7 @@ Li max mult substantives de grec origine have un special thema derivativ: p. ex.
 
 Scientic grec paroles abstract, finient in -se, -sie, -x (-cs), -xe (-cse) e -xie (-csie) forma li thema derivatori por li adjectives etc, mutante -s in -t (-x in -ct), e sovente li nómines de actor forjettante li suffix -ic del adjective: ana- (cata-, para-)lyse, -lytic (ma: -lysar); anti- (hypo-, meta-, paren-, syn-)the-se, -thetic; apoca-lyp-se, -tic; apo- (dia-, ec-)stase, -static (anc scrit, ma falsmen: exta-se, in vice de ecstase), apostat; aske-se, -tic, -t; ataxie, atactic; cateche-se, -tic, -t; chloro-se, -tic; empha-se, -tic; ellipse, -tic, epilep-sie, -tic; gala-xie, -ctic; gene-se, -tic; here-sie, -tic; hypno-se, -tic, -tisar, -tisero, -tism; narco-se -tic, -tisar; neuro-se, -tic; phrene-sie, -tic; poe-sie, -tic, -t; prophyla-xe -ctic; sarco-se, -tic; symbio-se, -tic; syntax, syntactic. Precipue remarcabil es li formationes secuent: dia- (pro-)gno-se, -stic, -sticar; energ-ie, -etic (ma anc: -ic); phanta-sie, -stic, -st, -sma, -siar; theor-ie, -etic, (ma anc: -ic).
 
-##### 2\. Thema presentic
+#### 2\. Thema presentic
 
 Li thema presentic (nominat anc thema verbal) es sempre identic con li presente del indicative; do on obtene it per omisser li desinentie -r del infinitive. Existe solmen du exceptiones: [192] li verb «esser» forma li indicativ presentic accurtat es, in contra que li thema presentic es regularimen esse-; li verb «lassar» have un particuloid form **lass** por significar per it li hortative (cp. capitul VI, parte F). Ad-plu existe li tri verboid particules (defectiv verbes) **mey, ples, vell** por formar li optative, resp. li precative e conditionale (cp. VI, F).
 
@@ -34,7 +34,7 @@ Li thema presentic es anc usat quam verbal substantiv, indicant un sigulari even
 
 Si on vell har obliviat, per quel del tri vocales (suffixes formativ) -a, -e, -i, li presentic thema es finient (e pro to anc li presente, li infinitive de un verb etc), in ti casu on retrova it facilmen per derivates, queles on conosse p. ex. ex dist**a**ntie on retrova dist**a**nt, dist**a**, dist**a**r; ex differ**e**nt o differ**e**ntie o differ**e**ntial on retrova differ**e**, differ**e**r; ex exist**e**ntie on retrova exist**e**nt, exist**e,** exist**e**r; ex proven**ie**ntie on retrova proven**ie**nt, proven**i,** proven**i**r etc. Anc per li thema perfectic e su derivates on posse reconstructer li thema presentic, quam es demonstrat in infra in li secuent articul.
 
-##### 3\. Thema perfectic
+#### 3\. Thema perfectic
 
 Li suffixes -ion, -iv, -or, -ori, (-or-ia), -ura e quelc vez anc -bil es adjuntet al thema perfectic; ti ci es trovat secun li
 
@@ -80,7 +80,7 @@ Li derivates del thema perfectic es trovabil in presc omni lingues europan, ne s
 
 (Continuation secue)
 
-### <a name="remarcas">Remarcas general al Complet Grammatica</a>
+## <a name="remarcas">Remarcas general al Complet Grammatica</a>
 
 Noi ha recivet divers communicationes pri li capitules till nu apparit del Complet Grammatica (CoGra).
 
@@ -98,9 +98,9 @@ Al preface del CoGra yo deve junter que un del collaboratores de mi ovre esset a
 
 K. Janotta.
 
-#### B. Suffixes productiv
+### B. Suffixes productiv
 
-##### 1\. Suffixes nominat productiv
+#### 1\. Suffixes nominat productiv
 
 <dl>
 
@@ -582,8 +582,8 @@ etablissement, movement; (d) de verbes finient per «vocal + er»: arguer,
 argument; compleer, complement; excreer, excrement; moer, moment, do
 format in ti ci casus semblantmen del tema primitiv, ma proprimen eveni
 ci li fenomen del elision del presc ínpronunciat e ergo anc ínscrit
-sufix formativ -e del tema presentic: excre+e+ment {equals} «excrement», e
-analogicmen: argu+e+ment {equals} «argument» etc.
+sufix formativ -e del tema presentic: excre+e+ment = «excrement», e
+analogicmen: argu+e+ment = «argument» etc.
 
 *-n, -nd*; vide in C.1 in infra.
 
@@ -613,7 +613,7 @@ rhomboid, spheroid, tabloid, trapezoid, trochoid, typhoid, zonoid.
 natural qualitá; buffon, burlon, dorm(i)on, galoppon, glotton, grison,
 laceron, nocton, peccon, pedon, savagion, spion, sucon.
 
-*-or* (juntet al tema perfectic) indica «actent» {equals} FD -eur,
+*-or* (juntet al tema perfectic) indica «actent» = FD -eur,
 LAD -or; exemples: (a) persones: administrator, antecessor, auditor,
 collaborator, conossor, creditor, curator, debitor, desertor, director,
 donator, executor, expeditor, furtor, gladiator, imperator, inspector,
@@ -773,7 +773,7 @@ con li sufix -ura e su aplication al verbes dinamic ples comparar sub
 *-ut* significa «superabundant de ..., tro rich de...»:
 barbut, brassut, carnut, pellut, sandut.
 
-##### 2. Sufixes verbal productiv
+#### 2. Sufixes verbal productiv
 
 -a-r forma derivates de diferent signification secun li tema primitiv.
 
@@ -936,9 +936,9 @@ e.
 -otta-r; vide it in supra che li sufix verbal -a-r, punctu
 g.
 
-#### C. Sufixes ínproductiv.
+### C. Sufixes ínproductiv.
 
-##### 1. Sufixes nominal ínproductiv.
+#### 1. Sufixes nominal ínproductiv.
 
 -est significa «havent, causant», ma anc «apartenent a...», p. ex.:
 modest (de L mod-us {equals} moderation), molest (L mol-es {equals} pena, efortia),
@@ -987,7 +987,7 @@ per -in: fratrin, matrin, patrin.
 diminuend, dividend, examinand, horrend, radicand, reverend, subtraend,
 summand, timend, le(g)ende, vigiland.
 
-##### 2. Sufixes verbal ínproductiv.
+#### 2. Sufixes verbal ínproductiv.
 
 -esce-r es un sufix purmen scientic e significa «haver luce quam...»:
 fluor, fluorescer; opale, opalescer; phosphor, phosphorescer. -- Compara
@@ -998,7 +998,7 @@ altre, partiprender li commun table, i.e. li communion), excommunicar (=
 excluder de lu commun); fumicar (= tractar per fum). Li verb
 «cavalcar» es nascet ex caval(li)car (= ear sur un cavalle).
 
-#### D. Contraction.
+### D. Contraction.
 
 Un fenomen remarcabil in li parolformation es li contraction, nominat
 anc «haplologie». It consiste in li redaction de du simil succedent
@@ -1009,7 +1009,7 @@ vice de tragicocomic.
 Ci es regardat in sequent li casus de contraction in li derivation u ili
 es tre frequent.
 
-1{dot} Contraction che sufixes nominal.
+1. Contraction che sufixes nominal.
 
 -ide; i+ide {equals} ide: apatride (= apatri-ide).
 
@@ -1030,7 +1030,7 @@ religi(on)os.
 -t(or)r-essa: tri+tressa {equals} tressa: «nutressa» in vice de nutritressa
 del verb nutrir (tema perfectic: nutrit).
 
-2{dot} Contraction che sufixes verbal.
+2. Contraction che sufixes verbal.
 
 i-fica-r: i+i {equals} I: glor(i)ificar, mum(i)ificar; ic+i {equals} i:
 ident(ic)ificar.
@@ -1038,7 +1038,7 @@ ident(ic)ificar.
 -isa-r: i+i {equals} i: colon(i)isar, harmon(i)isar, popular(i)isar; ic+is =
 is: electr(ic)isar, magnet(ic)isar, polem(ic)isar.
 
-E{dot} Derivation del temas finient in -c, -g.
+E. Derivation del temas finient in -c, -g.
 
 Li problema del temas finient in -c, -g concerne tam li flexion quam li
 derivation. Li solution de ti problema in egard al flexion es tractat in
@@ -1081,13 +1081,13 @@ Exemples de derivation
 recomendabil conservar «figue» pro figuiero (analog al formes S e F).
 On ne posse dir figiero. E fighiero vell esser
 contra li regul, quel on ne va abandonar pro ti unic parol. In
-«drogue» (venient del nederlandan «droog» {equals} sicc) g nequande deveni
+«drogue» (venient del nederlandan «droog» = sicc) g nequande deveni
 sonor-dental ž. Do ci -u- deve esser conservat in li radica de
 Occidental (F droguerie e droguist, S drogueria, droguero, I droghiere).
 On ne posse acceptar li minu international I droghe, vice li plu
 international «drogue».
 
-#### F. Liste del sufixes secun lor usation.
+### F. Liste del sufixes secun lor usation.
 
 Li sufixes ne es ordinat in general alfabetic, ma secun lor importantie.
 
