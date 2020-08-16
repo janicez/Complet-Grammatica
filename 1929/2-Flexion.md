@@ -1,6 +1,6 @@
-### II-esim Capitul: FLEXION
+## II-esim Capitul: FLEXION
 
-#### A. General remarcas pri li parol-formation
+### A. General remarcas pri li parol-formation
 
 Un parol posse consister ex divers elementes, quam p. ex. **nota-librette,** in quel on distin’e:
 
@@ -28,7 +28,7 @@ Un parol format per derivation (it es per adjuntion de un suffix a un thema) es 
 
 Li derivation e li composition es tractat in li secuent capitules (III-m e IV-m capitul). Li present capitul contene li flexion, i. e. li parol-formation per desinenties.
 
-#### B. Desinenties
+### B. Desinenties
 
 Li flexion es fat per li desinenties, i. e. grammatical finales, queles es usat por euphonisar o preciser li substantives, adjectives, adverbies e verbes. In li finales grammatical noi distin’e du gruppes:
 
@@ -39,7 +39,7 @@ In li derivation e composition li desinenties secundari es sempre eliminat, li d
 
 Remarca: On nomina sovente li desinenties anc suffixes, i. e. suffixes de flexion. Advere precipue li desinenties -li e -men have un aspect quasi de suffixes (derivativ) (pro esser etymologicmen originant del paroles A like, resp. L mens). Ma secun li definition quel noi dat al parol «desinentie», i. e. parol-formative ne permissent un ulterior derivation con li suffixes annexibil al thema primitiv, o per altri paroles «morphema ne formant un thema primitiv», secun ti definition anc -li e -men es desinenties e lor annexion es un «flexion».
 
-#### C. Desinenties primari
+### C. Desinenties primari
 
 **(1) -a.** Ti desinentie significa in prim li sexu feminin, i. e. li sexu generic del extension del rasse e ergo in sense metaphoric [173] alquo extendet, un activitá, loc, témpore, alquo general, universal, collectiv, generic, li resultat de un action, ma anc altri paroles secun usu international.
 
@@ -93,7 +93,7 @@ Exemples:
 
 **(6) -um.** Ti desinentie (ínaccentuat) have un signification concret e deriva-se del latin finale -um del substantives neutri del 2-m declination: album, maximum, minimum, pensum, plenum, serum e li derivates per -ari-um (vide in li III-m capitul). Que -um es un desinentie, on remarca per li derivates e composites u it desappari, p. ex.: maximal, minimal, plenari, serotherapie etc. On posse junter ti finale anc a chascun thema adjectivic por expresser li general idé de un qualitá: li bellum (= lu bell; vide VI. A.), i. e. li idé de bell, alquo bell; sammen li bonum, li novum, li verum etc.
 
-#### D. Desinenties secundari.
+### D. Desinenties secundari.
 
 **(1) -li.** Ti desinentie (derivat de A -ly) es li ínobligatori finale del adverbies derivat de non-adjectives, anc participies e numeralies; p. ex.: noctli (= in nocte), unesimli (= in unesim range). Ma preferibil, pro plu ímmediat comprension, es sempre li analytic maniere de expression, p. ex.: in sam témpore (samtemporli), per pedes (pedli), in part (partli), per hasard (hasardli), donar quam un rey (… reyli), in fact (factli), in fine, o finalmen (finli).
 
