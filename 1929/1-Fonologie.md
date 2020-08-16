@@ -1,6 +1,6 @@
-### <a name="I">I-esim Capitul: FONOLOGIE</a>
+## <a name="I">I-esim Capitul: FONOLOGIE</a>
 
-#### <a name="I_A">A. Alfabet</a>
+### <a name="I_A">A. Alfabet</a>
 
 Li alfabet de Occidental consiste ex 26 simplic lítteres, ad plu ex 2 lítteres apostrofat e ex 8 bilítteres (digrammas):
 
@@ -10,9 +10,9 @@ Li nómines del lítteres trova se in li parte G del present capitul.
 
 Li alfabet del 26 simplic lítteres coresponde con li alfabetes angles e german. Quam medie de enumeration in libres etc on usa solmen ti 26 simplic lítteres.
 
-#### <a name="I_B">B. Pronunciation</a>
+### <a name="I_B">B. Pronunciation</a>
 
-##### <a name="I_B_1">1\. Vocales</a>
+#### <a name="I_B_1">1\. Vocales</a>
 
 Occidental have 7 vocales: **a, e, i, o, u, y, eu.** Li unesim 5 es pronunciat quam in german, italian, hispan e slavic lingues.
 
@@ -28,7 +28,7 @@ Germanes mey attenter que du vocales intersecuent in general es pronunciat separ
 
 **ai**, **au**, e **eu** es diphtongs e es pronunciat [ay], respectivmen [aw] e [euw]: email [emáyl], rauc [rawk], applause [appláwse]; caul [kawl]; Europa [európa], neutral [neutrál].
 
-##### <a name="I_B_2">2\. Consonantes</a>
+#### <a name="I_B_2">2\. Consonantes</a>
 
 Occidental have 20 simplic consonantes (sin y) e 8 consonantes indicat per digrammas.
 
@@ -72,7 +72,7 @@ In lu sequent es indicat ti consonantes, de queles li pronunciation diverge del 
 
 **zz** = [ttss], p. ex. pezze [péttsse], plazza [pláttssa].
 
-#### C. Accentuation
+### C. Accentuation
 
 1\. Li accentu tonic es situat ordinarmen sur li vocal ante li ultim consonant. In li exemples secuent li accentu es indicat per grass litteres (**a, e** …): crat**e**r, doct**o**r, gall**i**n, gener**a**l, later**a**l; col**e**re, far**i**ne, hon**o**re, mach**i**ne, ordin**a**ri, sem**e**stre, sin**i**stri, turb**i**ne; l**a**uda, m**eu**ble; l**i**nea, **A**ustria, diabol**e**rie, galant**e**rie, fam**i**lie, libr**e**ria, observat**o**ria, st**a**tue; fel**i**ci, matr**i**ce, jud**i**cie; telegraph**a**r, il telegr**a**pha, il ha telegraph**a**t; construct**e**r, yo constr**u**cte, yo ha construct**e**t; il nom**i**na, yo consid**e**ra, it dim**i**nue, it fl**a**mmea, il l**o**gia, noi m**e**rsia.
 
@@ -96,7 +96,7 @@ In lu sequent es indicat ti consonantes, de queles li pronunciation diverge del 
 
 11\. Franceses mey attenter precipue li accentuation in paroles finient per -ic: el**e**ctric, ph**y**sic etc.
 
-#### D. Separation syllabic
+### D. Separation syllabic
 
 Li parol-partes juntet per composition es separat in parlation e scrition secun li modo de composition: atmo-sphere (e ne atmos-phere), dis-tribution (e ne di-stribution), abs-traer (e ne ab-straer), con-spiration (e ne cons-piration), con-stant (e ne cons-tant), su-specter (e ne sus-pecter), sus-pender (e ne su-spender), tran-spirar (e ne trans-pirar), trans-portar (e ne tran-sportar), ob-stacul (e ne obs-tacul), obstruction [168] (e ne obs-truction), re-stituer (e ne res-tituer), tran-scrir (e ne trans-crir).
 
@@ -108,7 +108,7 @@ Li altri parol-partes es separat secun li regules secuent:
 
 Li regules superior es valid por li pronunciation e have importantie por constatar li quantitá del syllabes secun li regules dat in li secuent parte E; ma in scrition e parlation un partition quelcunc es tolerat: atmos-phere, si-gnal, quad-rat etc. Ma in printa it es recommendabil applicar li regules superior por li syllabic separation.
 
-#### E. Quantitá vocalic
+### E. Quantitá vocalic
 
 Por constatar li quantitá del vocales on deve distin’er syllabes «apert» e «clus»; apert es teles queles fini per un vocale, p. ex.: ca-ra, fra-se, pa-tre; clus es teles queles fini per un consonant: car-re, tas-se, ves-tri.
 
@@ -120,7 +120,7 @@ Li frequent monosyllabic paroles grammatical (articul, pronómines, prepositione
 
 [169]
 
-#### F. Textu exercitiv
+### F. Textu exercitiv
 
 Remarca: Li accentu tonic del curt vocales es marcat in li secuent transcrition per un accentu grav: à, è … Li long vocales accentuat es representat per un accentu circumflex: â, ê … Un eventual accentu primari es indicat per grass litteres **à** (curt), **â** (long) …
 
@@ -157,13 +157,13 @@ solution     scientific.
 sso-lu-tsyôn sstsyen-tî-fik.
 </pre>
 
-#### G. Nómines de lítteres
+### G. Nómines de lítteres
 
 Quam nómines de lítteres li secuent sembla max convenent: a = â, b = bê, c = tsê, d = dê, e = ê, f = èf, g = žê, h = hâ, i = î, j = džî, k = kâ, l = èl, m = èm, n = èn, o = ô, p = pê, q = kû, r = èr, s = èss, t = tê, u = û, v = vê, w = dûplic vê, x = ìkss, y = üpssîlon, z = dsêd; l’ = èlye, n’ = ènye, ch = tshâ (anc tsê-hâ), eu = ö (o anc ê-û), gh = gê (dûr) (o anc žê-hâ), ph = latîn fî (o anc pê-hâ), rh = latîn rô (o anc èr-hâ), sh = shâ (o anc èss-hâ), th = latîn têta (o anc tê-hâ), zz = tsètt (o anc dûplik dsêd).
 
 [170]
 
-#### H. Classification del consonantes.
+### H. Classification del consonantes.
 
 Tabelle del simplic consonantes
 
