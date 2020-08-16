@@ -1,6 +1,6 @@
-### IV-esim Capitul: Composition
+## IV-esim Capitul: Composition
 
-#### A. General remarcas.
+### A. General remarcas.
 
 Li composition de paroles es fat:
 
@@ -13,7 +13,7 @@ Li composition de paroles es fat:
 Ulterior exemples:
 
 1. sin vocale eufonic: vapor-yacht, guerilla-banda, scri-machine
-(scri(r)+machine) {equals} tipp-machine (tipp(ar)+machine), machin-tippist,
+(scri(r)+machine) = tipp-machine (tipp(ar)+machine), machin-tippist,
 sty-bord,
 nord-ost, sud-west, nota-librette, vin-presse, chapel-bux, horloj-bux,
 bir-glass, benedir, benevoler, foliecalendare, cavall-bross,
@@ -47,7 +47,7 @@ grammatical paroles, precipue anc pro li assimilation quel multes
 recive; compara li partes B e D in sequent. On mey anc atenter li
 compositiones imperativic: vide li parte E in infra.
 
-#### B. Li assimilation in li composition.
+### B. Li assimilation in li composition.
 
 In casu de composition li prepositiones ad, con, ex, in, sub posse
 assimilar se tam quam li prefixes ab-, dis-, ín-, ob- (vide in detallie
@@ -79,7 +79,7 @@ ortografie» u es tractat anc li prefixes.
 
 
 
-#### C. Temas ínseparabil.
+### C. Temas ínseparabil.
 
 In li composition es usat mult temas ínseparabil: it es teles queles ne
 es usabil sol quam índependent paroles, ma solmen in compositiones. Lor
@@ -177,7 +177,7 @@ per-tiner.
 
 E mult altres.
 
-#### D. Prefixes.
+### D. Prefixes.
 
 Ci es tractat tam li prefixes ínseparabil quam li prepositiones e altri
 grammatical paroles usat quam prefixes. Ínseparabil es nominat ti
@@ -266,7 +266,7 @@ conservar, consister, consolidar, conspirar, constant, constellation,
 contemporan, contra(ct)er, convenir, e mult altres.
 
 Contra- (preposition) indica un contrarietá, un oposition: contraalt,
-contrabande (bande {equals} edict, lege); contrabass, contradi(c)tion,
+contrabande (bande = edict, lege); contrabass, contradi(c)tion,
 contrafagott, contraindication, contrapunct, contrasignar, contrast (st
 es li radica del verb star), contravallation, contravenir.
 
@@ -304,7 +304,7 @@ eliminat presc omni s ante consonantes, p.ex. école de escola, écarter
 de escartar, guèpe de Wespe, échanger de exchange etc. Pro to inter li
 paroles modern con prefix de- existe un grand parte de tales, queles in
 li lingues hispan e portugalés have li prefix des-, p.ex. descomposição,
-desdenho (F dédain {equals} desdigni), desflorar, desfoliar, desgelar,
+desdenho (F dédain = desdigni), desflorar, desfoliar, desgelar,
 desgustar, desligar (délier) etc...
 
 Des-: ti prefix have li fundamental sense de separation, privation,
@@ -387,7 +387,7 @@ cp. «fortlaufen, fortführen, fortgehen», ma solmen pri li prefix e ne
 pri li radicas), e pro que ili posse causar miscomprenses por angleses
 (nam li prefix A fore- have un signification temporal), it es plu bon
 usar in vice del derivates per for- plu international paroles, quam
-p.ex. forcurrer escapar, fuir: forducter {equals} ab-, conducter: forear =
+p.ex. forcurrer escapar, fuir: forducter = ab-, conducter: forear =
 departer, absentar se, escapar.
 
 Ho- forma (con terminos temporal) adverbies indicant li témpor del
@@ -573,7 +573,7 @@ in supra sub li divers prefixes.
 pripensar, ma pensar pri... o reflecter, meditar, considerar; ne
 priparlar, ma parlar pri... o discusser, tractar, mentionar.
 
-#### E. Compositiones con imperatives.
+### E. Compositiones con imperatives.
 
 Composit paroles, o un imperative es li determinative, unesim part e un
 substantive, adjective, particul, infinitive o mem un altri imperative
@@ -590,12 +590,12 @@ pass-opp, kryp-in, Russ: Vladi-vostok, Tchec: lam-zelezo, etc. etc. Ci
 quelc exemples de to, qualmen tal paroles posse esser composit anc in
 Occidental:
 
-Besa- (del verb besar): besamanu {equals} manubesa, besafront, besaped.
+Besa- (del verb besar): besamanu = manubesa, besafront, besaped.
 
 Chassa- (in li sense de «forpussar, escartar»): chassalápide (de
 locomotives), chassanive.
 
-Craca-: cracanuce {equals} nuciecracator.
+Craca-: cracanuce = nuciecracator.
 
 Garda- (del verb «gardar») alquo contenent, protectent, alqui gardant:
 gardacórpore, gardacrayon, gardamoné (= moné-bux, moné-scaf),
@@ -603,7 +603,7 @@ garda-manjage (= scafette con rete metallic por conservar alimentes),
 garda-ocul (oculecran, oculscren), gardarobe, gardastrad, gardavia (de
 ferrovias).
 
-Para- (de «parar» {equals} defender contra) defensive, preventive contra:
+Para- (de «parar» = defender contra) defensive, preventive contra:
 paraballe, parachoc, paracadida, parafango, paraflamme (= pumpe de
 incendies), parafoy, parafulmin, parafum, paraglacie (garnitura de
 planes circum li naves in li mares polari), paraluce, paramoskito,
@@ -643,7 +643,7 @@ recivet autonomie in Occidental, quel pro to ne es inventet, ma
 decovrit. Occidental es li resultate del quarant-annual linguistic
 exploration, quel comensat ja circa 1890.
 
-#### F. Grec prefixes.
+### F. Grec prefixes.
 
 In li lingue Occidental es usat anc grec prefixes in li terminarium
 scientific: in sequent solmen tal sufixes es enumerat, queles es tre
@@ -710,9 +710,9 @@ Hecto-, ante vocales hect-, significa «cent» in sense multiplicativ:
 hect-ar(e), hectogramm, hectographar (polygraphar), hectolitre,
 hectometre, hectowatt.
 
-Hemi- {equals} demí: hemicycle, demiedric, hemiglob, hemisphere.
+Hemi- = demí: hemicycle, demiedric, hemiglob, hemisphere.
 
-Hetero- {equals} altri, diferent, ínegal, contrari: heterodox, heterogen,
+Hetero- = altri, diferent, ínegal, contrari: heterodox, heterogen,
 heteromorph, heterosexual.
 
 Homo- {equals} egal: homogen, homolog, homosexual, homonym.
@@ -739,7 +739,7 @@ anc direcrt: mon-ism, mon-ist-ic.
 Myria- significa decimill: myriagramm, myrialitre, myriametre; in sene
 metaphoric: myriapod.
 
-Pan- {equals} omni, tot: Panamerica, Panasia, Paneuropa, panharmonic,
+Pan- = omni, tot: Panamerica, Panasia, Paneuropa, panharmonic,
 panhistor, panoptic, panorama, panslavism, pantelegraph, pantheism,
 pantheon.
 
@@ -749,7 +749,7 @@ Poly- mult: polyandrie, polychrom, polycopiar, polyedre, polygam(ist),
 polyglott(ie), polygramm, polygraph(al), polyhistor, polymorph(ism),
 polyphon(ic), polysyllab(ic), polytheism.
 
-Proto-, ante vocales prot- {equals} unesim, prim, primari: protoevangelie (1
+Proto-, ante vocales prot- = unesim, prim, primari: protoevangelie (1
 Mose 3, 15), protolingue, protoplasma, protoplastes (Adam e Eva),
 prototyp, protozoe.
 
