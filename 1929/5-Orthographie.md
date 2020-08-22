@@ -1,6 +1,6 @@
-### V-esim Capitul: Orthographie
+## V-esim Capitul: Orthographie
 
-#### A. Mollat sones.
+### A. Mollat sones.
 
 Li mollat sones l' e n' esset li max disputat punctu del ortografie de
 Occidental.
@@ -17,7 +17,7 @@ ha esset insertet in Cosmoglotta nr 73.
 It va esser affere del Occidental-Academie decider definitivmen ti
 problema.
 
-#### B. Lítteres c, g, gh, k.
+### B. Lítteres c, g, gh, k.
 
 Li scrition e pronunciation del lítteres, resp. sones c e g es un del
 max disputat problemas del fonologie e ortografie del lingue
@@ -65,7 +65,7 @@ ghetto, gheuse, ghéyser, ghibellin, ghigh (AD gig, F gigue), ghilde,
 ghirlande (plu bon quam guirlande, quel have solmen li grafisme, ma ne
 li fonetisme francés; I ghirlanda).
 
-#### C. Duplic consonantes.
+### C. Duplic consonantes.
 
 Mult paroles posse esser scrit per simplic o duplic consonantes (fonetic
 o historic
@@ -116,7 +116,7 @@ On mey anc distincter li adjectiv bell e li prefix bel-, pro que li
 signification es tre divers, malgré que li du radicas es identic secun
 li etimologie, do: bell matre, bel-matre. e mem: bell belmatre.
 
-#### D. Transscrition del latin paroles.
+### D. Transscrition del latin paroles.
 
 Li lingue international Occidental es fundat sur li paroles
 international. Ma li majorité del paroles international per li
@@ -189,7 +189,7 @@ mey comparar li sequent formes fonetic con li juxtaposit historic.
 | nazion: natur         | nation: natura
 |===
 
-#### E. Transscrition del grec paroles.
+### E. Transscrition del grec paroles.
 
 Li max mult paroles de grec orígin veni trans li latin al modern lingues
 e ergo
@@ -234,7 +234,7 @@ etc, u resta sempre li lítter y.
 
 
 
-#### F. Transscrition del non-classic paroles.
+### F. Transscrition del non-classic paroles.
 
 Li transscrition del non-classic paroles ne have uniform regules; ma
 pro que lor
@@ -259,7 +259,7 @@ On scri anc in non-classic paroles tch in vice de ch (tchecoslovak), ts
 in vice de
 c e z (tsar, tsetse) etc.
 
-#### G. Majuscules.
+### G. Majuscules.
 
 On usa majuscules quam líttere inicial in general:
 
@@ -305,7 +305,7 @@ printa erratorimen «Jch, Jdo, Jgnatius, Jnfanterie», in vice del just
 ortografie
 «Ich (= yo), Ido, Ignatius, Infanterie».
 
-#### H. Manuscrition.
+### H. Manuscrition.
 
 Anc in li manuscrition on mey atenter bonmen distincter I de J, sammen F
 de T,
@@ -325,7 +325,7 @@ It es necessi, que on scri ne solmen leibil, ma anc per lítteres, queles
 es customal
 al letor.
 
-#### I. Interpunction.
+### I. Interpunction.
 
 
 
@@ -573,11 +573,11 @@ pausas, es li unesim regul del diction, e li max important. Pro to
 ja li Ido-Academie ha tractat li interpunction tre detalliatmen, e
 noi secue ci su exemple, sovente con li sam paroles e specimenes.
 
-#### J. Abreviationes.
+### J. Abreviationes.
 
 
 
-##### 1. General Abrevationes.
+#### 1. General Abrevationes.
 
 a.C. = ante Christo
 
@@ -621,7 +621,7 @@ sra., Sra. = seniora
 
 v. = (ples) vide(r)
 
-##### 2. Abreviationes linguistic.
+#### 2. Abreviationes linguistic.
 
 (a) Natural lingues
 
@@ -755,7 +755,7 @@ RN = Reformneutral
 
 Vp = Volapük.
 
-##### 3. Signes por li chimic elementes.
+#### 3. Signes por li chimic elementes.
 
 |===
 | actinium                      | Ac
@@ -867,7 +867,7 @@ just signe): A (= *Ar*, argon), Az (azote = *N*, nitrogen), Cb (columbium =
 cassiopeium), Nt (niton = *Em*, emanation). On mey scrir por dysprosium ne
 Ds, ma *Dy*; por samarium ne Sm, ma *Sa* por thulium ne Tm, ma *Tu*.
 
-##### 4. General remarcas al abreviationes.
+#### 4. General remarcas al abreviationes.
 
 On ne mey abuser li abreviationes. Lor mission es in general esser usat
 in sinopticas, tabelles, listes, formules etc e precipue in special
@@ -882,7 +882,7 @@ dC, dM, nr, nrs, pg (articul 1) solmen in combination con ciffres; li
 linguistic abreviationes (articul 2) solmen ante lingual exemples; li
 signes de chimic elementes (articul 3) solmen in formules etc.
 
-#### K. Signes non alfabetic.
+### K. Signes non alfabetic.
 
 * (asterisc) = (in general:) hant nascet in...; (in lingues mort:)
 ínatestat, ma conjectet; (in lingues modern:) neologisme.
