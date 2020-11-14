@@ -1,6 +1,6 @@
-## <a name="I">I-esim Capitul: FONOLOGIE</a>
+## I-esim Capitul: FONOLOGIE
 
-### <a name="I_A">A. Alfabet</a>
+### A. Alfabet
 
 Li alfabet de Occidental consiste ex 26 simplic lítteres, ad plu ex 2 lítteres apostrofat e ex 8 bilítteres (digrammas):
 
@@ -10,15 +10,15 @@ Li nómines del lítteres trova se in li parte G del present capitul.
 
 Li alfabet del 26 simplic lítteres coresponde con li alfabetes angles e german. Quam medie de enumeration in libres etc on usa solmen ti 26 simplic lítteres.
 
-### <a name="I_B">B. Pronunciation</a>
+### B. Pronunciation
 
-#### <a name="I_B_1">1\. Vocales</a>
+#### 1. Vocales
 
 Occidental have 7 vocales: **a, e, i, o, u, y, eu.** Li unesim 5 es pronunciat quam in german, italian, hispan e slavic lingues.
 
 Angleses mey attenter li pronunciation continental del vocales, it es: **a** quam in A father o calm; **e** quam in A vein; **i** quam in A unique; **o** quam in D so, plu pur quam in A not, so (sin u succedent); **u** quam in A rule.
 
-[152] Franceses mey attenter que in Occidental ne existe vocales nasal: **an, en, in, on, un** = F ane, ene, ine, one, oune; salon = F salone [transcrition: sa-lón]; indic = F ine-dique [ín-dik]; aqua = F a-quoi [á-kwa]; quande = F couanne-de [kwán-de]. Ad plu Occidental u = F ou [u].
+Franceses mey attenter que in Occidental ne existe vocales nasal: **an, en, in, on, un** = F ane, ene, ine, one, oune; salon = F salone [transcrition: sa-lón]; indic = F ine-dique [ín-dik]; aqua = F a-quoi [á-kwa]; quande = F couanne-de [kwán-de]. Ad plu Occidental u = F ou [u].
 
 Germanes mey attenter que du vocales intersecuent in general es pronunciat separat: aer = D a-ehr [aér], país = D pa-ihs [país], leer = le-ehr [le-ér], leibil = D le-ih-bil [leíbil], ciel = D zi-ehl [tsyél].
 
@@ -28,7 +28,7 @@ Germanes mey attenter que du vocales intersecuent in general es pronunciat separ
 
 **ai**, **au**, e **eu** es diphtongs e es pronunciat [ay], respectivmen [aw] e [euw]: email [emáyl], rauc [rawk], applause [appláwse]; caul [kawl]; Europa [európa], neutral [neutrál].
 
-#### <a name="I_B_2">2\. Consonantes</a>
+#### 2. Consonantes
 
 Occidental have 20 simplic consonantes (sin y) e 8 consonantes indicat per digrammas.
 
@@ -40,7 +40,7 @@ In lu sequent es indicat ti consonantes, de queles li pronunciation diverge del 
 
 **h** es sempre pronunciat quam in german. Li digrammas ch, sh etc es tractat in infra.
 
-[153] **j** es egal a j in A jazz, a dg in D Budget e F budget, transcrition [dž]: januar [džanwár], conjugation [kondžugatsyón].
+**j** es egal a j in A jazz, a dg in D Budget e F budget, transcrition [dž]: januar [džanwár], conjugation [kondžugatsyón].
 
 **q** es pronunciat quam k: banqero [bankéro], acquisition [akkwisitsyón].
 
@@ -74,27 +74,27 @@ In lu sequent es indicat ti consonantes, de queles li pronunciation diverge del 
 
 ### C. Accentuation
 
-1\. Li accentu tonic es situat ordinarmen sur li vocal ante li ultim consonant. In li exemples secuent li accentu es indicat per grass litteres (**a, e** …): crat**e**r, doct**o**r, gall**i**n, gener**a**l, later**a**l; col**e**re, far**i**ne, hon**o**re, mach**i**ne, ordin**a**ri, sem**e**stre, sin**i**stri, turb**i**ne; l**a**uda, m**eu**ble; l**i**nea, **A**ustria, diabol**e**rie, galant**e**rie, fam**i**lie, libr**e**ria, observat**o**ria, st**a**tue; fel**i**ci, matr**i**ce, jud**i**cie; telegraph**a**r, il telegr**a**pha, il ha telegraph**a**t; construct**e**r, yo constr**u**cte, yo ha construct**e**t; il nom**i**na, yo consid**e**ra, it dim**i**nue, it fl**a**mmea, il l**o**gia, noi m**e**rsia.
+1. Li accentu tonic es situat ordinarmen sur li vocal ante li ultim consonant. In li exemples secuent li accentu es indicat per grass litteres (**a, e** …): crat**e**r, doct**o**r, gall**i**n, gener**a**l, later**a**l; col**e**re, far**i**ne, hon**o**re, mach**i**ne, ordin**a**ri, sem**e**stre, sin**i**stri, turb**i**ne; l**a**uda, m**eu**ble; l**i**nea, **A**ustria, diabol**e**rie, galant**e**rie, fam**i**lie, libr**e**ria, observat**o**ria, st**a**tue; fel**i**ci, matr**i**ce, jud**i**cie; telegraph**a**r, il telegr**a**pha, il ha telegraph**a**t; construct**e**r, yo constr**u**cte, yo ha construct**e**t; il nom**i**na, yo consid**e**ra, it dim**i**nue, it fl**a**mmea, il l**o**gia, noi m**e**rsia.
 
-2\. Li finales **-bil, -ic,** (si it es pronunciat [ik]), **-im, -ul** es ínaccentuat e attrae li accentu al precendent syllabe, mem si li precedent syllabe es un de ti quar syllabes (finales atonic): l**a**bil, n**o**bil, poss**i**bil, st**a**bil; arch**a**ic, eth**e**ric, her**o**ic, hyperb**o**lic, l**e**xico, lac**o**nic, mathem**a**tica, pros**a**ic, r**a**dica, sid**e**ric, it sign**i**fica; **a**nim, bell**i**ssim; **i**ntim, pr**o**xim, tri**e**sim, **u**ltim; f**i**stul, g**u**rgul, m**a**ndul, n**e**bul, p**o**pul, r**e**gul, vest**i**bul, voc**a**bul, il c**a**lcula, yo p**o**stula; herc**u**lic, art**i**cul, ped**i**cul, perpend**i**cul.
+2. Li finales **-bil, -ic,** (si it es pronunciat [ik]), **-im, -ul** es ínaccentuat e attrae li accentu al precendent syllabe, mem si li precedent syllabe es un de ti quar syllabes (finales atonic): l**a**bil, n**o**bil, poss**i**bil, st**a**bil; arch**a**ic, eth**e**ric, her**o**ic, hyperb**o**lic, l**e**xico, lac**o**nic, mathem**a**tica, pros**a**ic, r**a**dica, sid**e**ric, it sign**i**fica; **a**nim, bell**i**ssim; **i**ntim, pr**o**xim, tri**e**sim, **u**ltim; f**i**stul, g**u**rgul, m**a**ndul, n**e**bul, p**o**pul, r**e**gul, vest**i**bul, voc**a**bul, il c**a**lcula, yo p**o**stula; herc**u**lic, art**i**cul, ped**i**cul, perpend**i**cul.
 
-3\. Li finale **-s** del plurale e li finales **-men** e **-um** es ínaccentuat e ne have influentie al accentu del céteri parol-parte (finales enclitic): doct**o**r, doct**o**res; l**i**nea, l**i**neas; st**a**tue, st**a**tues; l**e**xico, l**e**xicos; voc**a**bul, voc**a**bules; hyperb**o**lic, hyperb**o**licmen; rap**i**d, rap**i**dmen; respect**a**bil, respect**a**bilmen; s**o**bri, s**o**brimen; t**a**l, t**a**lmen; **a**lbum, c**i**rcum, herb**a**rium, m**a**ximum, op**o**ssum, pl**e**num; **a**lbums, herb**a**riums, etc. Li finale **-men** es li accurtat L «mente» (= in li sense, in li qualitá), do li adverbies format per -men es quasi composites; ergo -men posse reciver un accentu secundari secun li 5-m articul in infra: respect**a**bilm**e**n, s**o**brim**e**n.
+3. Li finale **-s** del plurale e li finales **-men** e **-um** es ínaccentuat e ne have influentie al accentu del céteri parol-parte (finales enclitic): doct**o**r, doct**o**res; l**i**nea, l**i**neas; st**a**tue, st**a**tues; l**e**xico, l**e**xicos; voc**a**bul, voc**a**bules; hyperb**o**lic, hyperb**o**licmen; rap**i**d, rap**i**dmen; respect**a**bil, respect**a**bilmen; s**o**bri, s**o**brimen; t**a**l, t**a**lmen; **a**lbum, c**i**rcum, herb**a**rium, m**a**ximum, op**o**ssum, pl**e**num; **a**lbums, herb**a**riums, etc. Li finale **-men** es li accurtat L «mente» (= in li sense, in li qualitá), do li adverbies format per -men es quasi composites; ergo -men posse reciver un accentu secundari secun li 5-m articul in infra: respect**a**bilm**e**n, s**o**brim**e**n.
 
-[166] 4\. Paroles ne havent vocales ante li ultim consonant es accentuat sur li unesim vocale: d**i**e, d**e**o, n**o**i, t**u**i, yo **e**a, (ma: e**a**r), yo l**e**e (ma: le**e**r), yo tr**a**e (ma: tra**e**r), br**u**i, b**o**a, p**i**e, v**i**a; plurale: d**i**es, d**e**os, etc.
+4. Paroles ne havent vocales ante li ultim consonant es accentuat sur li unesim vocale: d**i**e, d**e**o, n**o**i, t**u**i, yo **e**a, (ma: e**a**r), yo l**e**e (ma: le**e**r), yo tr**a**e (ma: tra**e**r), br**u**i, b**o**a, p**i**e, v**i**a; plurale: d**i**es, d**e**os, etc.
 
-5\. In paroles composit (anc in historic composites) chascun parte posse haver un accentu tonic secun li regules superior. Si li unesim parte (li parol determinativ) es un substantiv, adjectiv o li prefix negativ ín-, it recive li accentu principal (accentu primari); si it es un particul, it recive o nequel accentu o un accentu accessori (accentu secundari). Li duesim parte (li parol determinat) recive in li ultim casu li accentu primari. Exemples (accentu primari per grass litteres: **á, é** … ; accentu secundari per normal litteres: á, á …): f**é**rrovía (ex f**e**rro-v**i**a); m**á**lhumorát (ex m**a**l-humor**a**t); **í**npracticábil (vide in in li IV-m capitul inter li prefixes). Ma: rétroven**í**r (ex r**e**tro e ven**i**r), yo rétrov**é**ni; ápplic**á**r, yo appl**í**ca; áttra**é**r, yo attr**á**e; índic**á**r, yo ind**í**ca; cóntrad**í**r: yo cóntrad**í**.
+5. In paroles composit (anc in historic composites) chascun parte posse haver un accentu tonic secun li regules superior. Si li unesim parte (li parol determinativ) es un substantiv, adjectiv o li prefix negativ ín-, it recive li accentu principal (accentu primari); si it es un particul, it recive o nequel accentu o un accentu accessori (accentu secundari). Li duesim parte (li parol determinat) recive in li ultim casu li accentu primari. Exemples (accentu primari per grass litteres: **á, é** … ; accentu secundari per normal litteres: á, á …): f**é**rrovía (ex f**e**rro-v**i**a); m**á**lhumorát (ex m**a**l-humor**a**t); **í**npracticábil (vide in in li IV-m capitul inter li prefixes). Ma: rétroven**í**r (ex r**e**tro e ven**i**r), yo rétrov**é**ni; ápplic**á**r, yo appl**í**ca; áttra**é**r, yo attr**á**e; índic**á**r, yo ind**í**ca; cóntrad**í**r: yo cóntrad**í**.
 
-6\. In li casus ne conform al regules supra-citat, li accentu es scrit (accentu graphic): bontá, mamá, qualitá; allé, bebé, café, canapé, cité, cupé, defilé, epopé, idé, livré, moné, societé; demí, logí, mersí; buró, depó, numeró, paletó, plató; cacatú, marabú, menú, parvenú, revenú; cacáo, muséo, heróe, revúe; abdómin, ómine, (pro)nómine, órdine, págine, rícino, término, órden; céteri, cólera, éther, génere, ínter, líber, númere, préter, púer, púber, sídere, súper, témpore, tónnere, vésper; cánabe, fílice, hypérbol, límite, spíritu, zóbol; in contrari al 2-m e 3-m articul in supra: amíc, eríca, formíca, urtíca; ínterim, sublím; parfúm; in contrari al regul pri i pos a in li parte B, articul 1: Haíti, país. In li plurale resta li accentu scrit: mamás, idés, logís, depós, menús; muséos, heróes; númeres etc.
+6. In li casus ne conform al regules supra-citat, li accentu es scrit (accentu graphic): bontá, mamá, qualitá; allé, bebé, café, canapé, cité, cupé, defilé, epopé, idé, livré, moné, societé; demí, logí, mersí; buró, depó, numeró, paletó, plató; cacatú, marabú, menú, parvenú, revenú; cacáo, muséo, heróe, revúe; abdómin, ómine, (pro)nómine, órdine, págine, rícino, término, órden; céteri, cólera, éther, génere, ínter, líber, númere, préter, púer, púber, sídere, súper, témpore, tónnere, vésper; cánabe, fílice, hypérbol, límite, spíritu, zóbol; in contrari al 2-m e 3-m articul in supra: amíc, eríca, formíca, urtíca; ínterim, sublím; parfúm; in contrari al regul pri i pos a in li parte B, articul 1: Haíti, país. In li plurale resta li accentu scrit: mamás, idés, logís, depós, menús; muséos, heróes; númeres etc.
 
-7\. On posse usar egal qual accentu graphic: é, è, ê, ma li accentu acut (é) es recommandat in prim, in duesim rang li accentu grav (è), in contra que li accentu circumflex (ê) deve esser evitat secun possibilitá. U accentus ne es accessibil (precipue in majuscules), on posse anc posir un apostroph pos li vocale, p. ex. prono’mine, caca’o, numero’, PRONO’MINE, CACA’O, NUMERO’.
+7. On posse usar egal qual accentu graphic: é, è, ê, ma li accentu acut (é) es recommandat in prim, in duesim rang li accentu grav (è), in contra que li accentu circumflex (ê) deve esser evitat secun possibilitá. U accentus ne es accessibil (precipue in majuscules), on posse anc posir un apostroph pos li vocale, p. ex. prono’mine, caca’o, numero’, PRONO’MINE, CACA’O, NUMERO’.
 
-8\. On posse omisser li accentu graphic in paroles tre frequent e familiari quam amic, femina, inter, pagine, parfum, preter, super etc. In secundari rang on posse omisser it in li casus u it sta sur un vocale secuet de un o pluri consonantes: [167] abdomin, erica, genere etc. In triesim gradu on posse omisser li accentu graphic anc in ti casus u it sta sur un vocale secuet de un altri vocale: cacao, museo, heroe. On mey, si alquam possibil, evitar li omission del accentu si it sta sur li ultim vocale, do ne «qualita», ma «qualitá»; ne «alle», ma «allé»; ne «logi», ma «logí». In fin, u accentus absolutmen ne es accessibil, 0 u on nequam vole usar li remedie del apostrophes secun li 8-m articul in supra (precipue in majuscules, in titules, affiches etc), it es permisset totalmen elisionar li accentus. In vocabulariums li usation del accentus graphic es strict obligatori.
+8. On posse omisser li accentu graphic in paroles tre frequent e familiari quam amic, femina, inter, pagine, parfum, preter, super etc. In secundari rang on posse omisser it in li casus u it sta sur un vocale secuet de un o pluri consonantes: [167] abdomin, erica, genere etc. In triesim gradu on posse omisser li accentu graphic anc in ti casus u it sta sur un vocale secuet de un altri vocale: cacao, museo, heroe. On mey, si alquam possibil, evitar li omission del accentu si it sta sur li ultim vocale, do ne «qualita», ma «qualitá»; ne «alle», ma «allé»; ne «logi», ma «logí». In fin, u accentus absolutmen ne es accessibil, 0 u on nequam vole usar li remedie del apostrophes secun li 8-m articul in supra (precipue in majuscules, in titules, affiches etc), it es permisset totalmen elisionar li accentus. In vocabulariums li usation del accentus graphic es strict obligatori.
 
-9\. Li accentu graphic posse esser usat anc por distin’er paroles homonym, p. ex. te (pronómine), té (trincage); si (conjunction), sí (affirmation pos negation); in- (prefix de direction), ín- (prefix de negation) p. ex.; inscrit = scrit in alquo, ínscrit = ne scrit; compara ti prefixes in li IV-esim capitul. Sammen on posse distin’er per accentu graphic li pronómines interrogativ del pronómines relativ; p. ex.; quánde? quí? quó? ú?: quande, qui, quo, u. On posse usar li accentu mem sur monosyllabic paroles con vocalic finale (precipue presentes e imperatives) por sublinear lor importantie in li phrase (accentu rhetoric), p. ex.: dá, dí, fá, stá; yo dá, yo dí, yo fá, yo stá; Archimedes dí: «Dá u yo stá, e li terre mover yo vá». Lu sam es valid por composites con tal monosyllabic determinat (duesim) partes: yo addí, contradí, descrí, refá, transdá; sammen li nómines del dies semanal: soledí, lundí, mardí, mercurdí, jovedí, venerdí, saturdí.
+9. Li accentu graphic posse esser usat anc por distin’er paroles homonym, p. ex. te (pronómine), té (trincage); si (conjunction), sí (affirmation pos negation); in- (prefix de direction), ín- (prefix de negation) p. ex.; inscrit = scrit in alquo, ínscrit = ne scrit; compara ti prefixes in li IV-esim capitul. Sammen on posse distin’er per accentu graphic li pronómines interrogativ del pronómines relativ; p. ex.; quánde? quí? quó? ú?: quande, qui, quo, u. On posse usar li accentu mem sur monosyllabic paroles con vocalic finale (precipue presentes e imperatives) por sublinear lor importantie in li phrase (accentu rhetoric), p. ex.: dá, dí, fá, stá; yo dá, yo dí, yo fá, yo stá; Archimedes dí: «Dá u yo stá, e li terre mover yo vá». Lu sam es valid por composites con tal monosyllabic determinat (duesim) partes: yo addí, contradí, descrí, refá, transdá; sammen li nómines del dies semanal: soledí, lundí, mardí, mercurdí, jovedí, venerdí, saturdí.
 
-10\. Germanes mey egardar li accentuation deviant de lor custom in paroles quam li secuent: doct**o**r, mot**o**r, st**a**bil, m**o**bil etc.
+10. Germanes mey egardar li accentuation deviant de lor custom in paroles quam li secuent: doct**o**r, mot**o**r, st**a**bil, m**o**bil etc.
 
-11\. Franceses mey attenter precipue li accentuation in paroles finient per -ic: el**e**ctric, ph**y**sic etc.
+11. Franceses mey attenter precipue li accentuation in paroles finient per -ic: el**e**ctric, ph**y**sic etc.
 
 ### D. Separation syllabic
 
@@ -117,8 +117,6 @@ Li vocales accentuat in syllabes apert es long (marcat: â, ê …): idê, marab
 Li vocales ínaccentuat es sempre demí-long o curt; **i** e **u** in quelc casus es mem consonantic quam **y** e **w,** qualmen es monstrat in supra che li pronunciation del vocales (B. 1).
 
 Li frequent monosyllabic paroles grammatical (articul, pronómines, prepositiones, conjunctiones) es curt: lì, ùn, nòs, lès, dè, còn, è, mà, què, ès, hà, và, pèr, prì etc.
-
-[169]
 
 ### F. Textu exercitiv
 
@@ -160,8 +158,6 @@ sso-lu-tsyôn sstsyen-tî-fik.
 ### G. Nómines de lítteres
 
 Quam nómines de lítteres li secuent sembla max convenent: a = â, b = bê, c = tsê, d = dê, e = ê, f = èf, g = žê, h = hâ, i = î, j = džî, k = kâ, l = èl, m = èm, n = èn, o = ô, p = pê, q = kû, r = èr, s = èss, t = tê, u = û, v = vê, w = dûplic vê, x = ìkss, y = üpssîlon, z = dsêd; l’ = èlye, n’ = ènye, ch = tshâ (anc tsê-hâ), eu = ö (o anc ê-û), gh = gê (dûr) (o anc žê-hâ), ph = latîn fî (o anc pê-hâ), rh = latîn rô (o anc èr-hâ), sh = shâ (o anc èss-hâ), th = latîn têta (o anc tê-hâ), zz = tsètt (o anc dûplik dsêd).
-
-[170]
 
 ### H. Classification del consonantes.
 

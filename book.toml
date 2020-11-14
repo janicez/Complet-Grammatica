@@ -1,0 +1,22 @@
+[book]
+authors = ["Karl Janotta"]
+language = "ie"
+multilingual = false
+src = "src"
+title = "Complet Grammatica de Occidental"
+description = ""
+
+[output.html]
+theme = "src/theme"
+default-theme = "rust"
+preferred-dark-theme = "coal"
+git-repository-url = "https://github.com/occidental-lang/Complet-Grammatica"
+site-url = "/Complet-Grammatica/"
+google-analytics = "UA-151655688-1"
+
+[output.html.fold]
+enable = true
+level = 0
+
+[build]
+build-dir = "docs"

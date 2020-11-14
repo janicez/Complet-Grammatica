@@ -8,7 +8,7 @@ Un parol posse consister ex divers elementes, quam p. ex. **nota-librette,** in 
 2-m du **desinenties:** a, e,  
 3-m un **suffix** (derivativ): ett.
 
-Li max important parte del paroles es lor thema. Li thema es li rest de un parol pos elimination del ultim desinentie o ultim suffix. Ma li radica de un parol es su essential parte, [171] un element írreductibil, quel servi a formar li paroles per se self o per juntion con desinenties, suffixes, o altri radicas.
+Li max important parte del paroles es lor thema. Li thema es li rest de un parol pos elimination del ultim desinentie o ultim suffix. Ma li radica de un parol es su essential parte, un element írreductibil, quel servi a formar li paroles per se self o per juntion con desinenties, suffixes, o altri radicas.
 
 Li secuent exemples va explicar li divers términos del parol-formation.
 
@@ -24,7 +24,7 @@ Secun li parol-elementes noi distin’e tri species de parol-formation:
 2-m li derivation per suffixes,  
 3-m li composition per paroles determinativ.
 
-Un parol format per derivation (it es per adjuntion de un suffix a un thema) es nominat un «derivate»; li thema de ti derivate posse esser un radica o self un derivat o un composit. Li nómine «composit» es dat a un parol format per composition de du o pluri paroles; ti paroles posse esser self simplic paroles (radicas o radicas plus desinentie) o derivates o composites. [172] P. ex. «tippmachine» es un composite, de quel li componentes es **tipp** e **machin.** Ma «tippist» es un derivat, pro que **-ist** ne es un parol, ma un suffix addit al parol **tipp.** Li parol «exterritorialitá» es composit e derivat; su componentes es li paroles **ex** (preposition) e **territorial** (adjective), a queles es juntet li suffix **-itá.** «Territorial» es derivat del thema **territori** (del parol territoria) per li suffix -al. **Territori** es ne plu analysabil in Occidental, ma in latin it deriva-se del radica terr- per li suffixes **-it** e **-ori.** Li parol «ínfinitesimal» consiste ex li prefix **ín** (parol determinativ), li radica **fin,** li desinentie **i** e li suffixes **t, esim, al** (do: in-fin-i-t-esim-al).
+Un parol format per derivation (it es per adjuntion de un suffix a un thema) es nominat un «derivate»; li thema de ti derivate posse esser un radica o self un derivat o un composit. Li nómine «composit» es dat a un parol format per composition de du o pluri paroles; ti paroles posse esser self simplic paroles (radicas o radicas plus desinentie) o derivates o composites. P. ex. «tippmachine» es un composite, de quel li componentes es **tipp** e **machin.** Ma «tippist» es un derivat, pro que **-ist** ne es un parol, ma un suffix addit al parol **tipp.** Li parol «exterritorialitá» es composit e derivat; su componentes es li paroles **ex** (preposition) e **territorial** (adjective), a queles es juntet li suffix **-itá.** «Territorial» es derivat del thema **territori** (del parol territoria) per li suffix -al. **Territori** es ne plu analysabil in Occidental, ma in latin it deriva-se del radica terr- per li suffixes **-it** e **-ori.** Li parol «ínfinitesimal» consiste ex li prefix **ín** (parol determinativ), li radica **fin,** li desinentie **i** e li suffixes **t, esim, al** (do: in-fin-i-t-esim-al).
 
 Li derivation e li composition es tractat in li secuent capitules (III-m e IV-m capitul). Li present capitul contene li flexion, i. e. li parol-formation per desinenties.
 
@@ -87,7 +87,7 @@ Exemples:
 
 (a) sexu masculin: americano, amico, bello, bravo, cavallo, dormiento, filio, franceso, germano, richo e li derivates per -ario e -ero (vide in infra in III. B).
 
-[175] (b) altri paroles: brutto, cacáo, cargo, caseo, conto, corpo, cosmo, cranio, dynamo, foco, fresco, hordeo, humo, lago, lexico, muséo, posto, radio, tempo, término, torso, veto etc. e li derivates per li suffix -ier-o (vide in li Ill-m capitul).
+(b) altri paroles: brutto, cacáo, cargo, caseo, conto, corpo, cosmo, cranio, dynamo, foco, fresco, hordeo, humo, lago, lexico, muséo, posto, radio, tempo, término, torso, veto etc. e li derivates per li suffix -ier-o (vide in li Ill-m capitul).
 
 **(5) -u.** Ti desinentie significa alquo abstract, neutri, un relativitá, un statu factic con li thema perfectic (v. III. A): acter, act, actu; proceder, process, processu; star, stat, statu. Compara anc in infra in li derivation (III. B.) li suffix -at-u.
 
@@ -99,7 +99,7 @@ Exemples:
 
 **(2) -men.** Ti desinentie (derivat de L mens, correspondent a F ment, I S P mente, Prov. men, do scrit quam in provenzal) es li ínobligatori finale del adverbies derivat de adjectives. It es enclitic; to es, it ne transloca li accentu del parol a quel it es juntet; vide che Pronunciation I. B. Exemples: clar: clarmen, ver: vermen; egalmen, lentmen, naturalmen, sammen, systematicmen; ordinar(i)men, regular(i)men; festivmen; ambitios(i)men, conscientios(i)men; equitabilmen, esperabilmen; notorimen, obligatorimen; constantmen, conscientmen, evidentmen, independentmen, recentmen; detal’atmen, repetitmen, conossetmen (= quam it es conosset). Anc ci li analytic stylisation in cert casus es plu clar e plu elegant, p. ex. propulset motoricmen = … per motor; illuminat electricmen = … per electric(itá) etc.
 
-[176] **(3) -r.** Ti desinentie indica li infinitive e es usat solmen pos li vocale del thema presentic; támen it ne posse esser regardat quam suffix, pro que on ne posse formar derivates del infinitive; exemples: pluvia, pluviar; pensa, pensar; luce lucer; conflicte, conflicter; compati, compatir; demoli, demolir; fini, finir. On ne vive por manjar, ma on manja por viver. — Li question quel desinentie es annexet al thema primitiv del verbes por formar li thema presentic (esque **a, e, i**) e in plu li infinitive etc, appartene al derivation; ergo ti thema es tractat in li secuent capitul (III. A.). Compara anc in infra che li «Verb» (Vl-m capitul, parte F).
+**(3) -r.** Ti desinentie indica li infinitive e es usat solmen pos li vocale del thema presentic; támen it ne posse esser regardat quam suffix, pro que on ne posse formar derivates del infinitive; exemples: pluvia, pluviar; pensa, pensar; luce lucer; conflicte, conflicter; compati, compatir; demoli, demolir; fini, finir. On ne vive por manjar, ma on manja por viver. — Li question quel desinentie es annexet al thema primitiv del verbes por formar li thema presentic (esque **a, e, i**) e in plu li infinitive etc, appartene al derivation; ergo ti thema es tractat in li secuent capitul (III. A.). Compara anc in infra che li «Verb» (Vl-m capitul, parte F).
 
 **(4) -s.** Ti desinentie significa li plurale e posse esser annexet ne solmen al finales vocalic, ma anc al themas finient per consonantes: rosiera, rosieras; femina, feminas; amica, amicas; lingue, lingues; patre, patres; germano, germanos; annu, annus; mensu, mensus; logí, logís. — Pos li themas finient consonanticmen on prefere intercalar -e-: nation, nationes; uniform, uniformes; cavall, cavalles; parol, paroles; film, filmes; sport, sportes.
 
