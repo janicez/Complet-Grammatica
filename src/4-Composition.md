@@ -202,7 +202,7 @@ Pos- (preposition), in paroles scientic o historic post-: posscrit o post-scri(p
 
 Pre- significa «ante, avan», do con aplication tam local quam temporal, e have metaforicmen anc un signification de valore superior; pre-adamic, precaution, predestinar, predir, predisposition, predominantie, pre-existentie, prehistoric, prejudicie, preludie, prematur, prepotent, preponderant, pre-payar, presider, prescientie, presupposir, prevaler, prevenir, previder.
 
-Péter- (preposition), in general scrit sin accentu, expresse un move ad avan e al látere del object: pretercurrer, preterear (= preterir, de quo: preterit), preterpassar, pretervehicular.
+Préter- (preposition), in general scrit sin accentu, expresse un move ad avan e al látere del object: pretercurrer, preterear (= preterir, de quo: preterit), preterpassar, pretervehicular.
 
 Pro- (preposition) indica un move ad-avan, un projection de intern ad-supra e ad-avan (contrari a re-): proceder, proclamar, procurar, producter, progresser, projecter, prolongar, pronunciar, proposir, prospect, provenir, provider (providentie), provocar.
 
